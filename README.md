@@ -89,4 +89,4 @@ This project addresses the question:
 
 The chart below shows revenue vs profit for each product category:
 
-![Revenue vs Profit by Category](sales_profit_by_generator.png)
+![Revenue vs Profit by Category](sales_profit_by_category.png)
