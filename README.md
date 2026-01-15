@@ -84,3 +84,9 @@ This project addresses the question:
 - Output Excel Report: `Business_Report.xlsx`
 - Dataset: `Superstore_Sales.csv`
 - Documentation: `README.md`
+## Category Analysis
+
+The chart below shows revenue vs profit for each product category:
+
+![Revenue vs Profit by Category](images/sales_profit_by_generator
+.png)
